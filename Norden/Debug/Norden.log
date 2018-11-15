@@ -1,0 +1,22 @@
+﻿  main.cpp
+o:\hax\norden\norden\shader.h(65): warning C4101: 'infoLog': unreferenced local variable
+o:\hax\norden\norden\shader.h(64): warning C4101: 'success': unreferenced local variable
+o:\hax\norden\norden\terrain.h(287): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+o:\hax\norden\norden\terrain.h(288): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+o:\hax\norden\norden\terrain.h(371): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+o:\hax\norden\norden\terrain.h(383): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+o:\hax\norden\norden\forest.h(59): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+o:\hax\norden\norden\forest.h(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+o:\hax\norden\norden\fort.h(43): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+o:\hax\norden\norden\fort.h(131): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+o:\hax\norden\norden\fort.h(149): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+o:\hax\norden\norden\main.cpp(185): warning C4305: 'initializing': truncation from 'double' to 'float'
+o:\hax\norden\norden\main.cpp(201): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+o:\hax\norden\norden\main.cpp(336): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+o:\hax\norden\norden\main.cpp(337): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+o:\hax\norden\norden\main.cpp(341): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+o:\hax\norden\norden\main.cpp(342): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+o:\hax\norden\norden\main.cpp(344): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+o:\hax\norden\norden\main.cpp(345): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+o:\hax\norden\norden\main.cpp(354): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Norden.vcxproj -> O:\hax\Norden\Debug\Norden.exe
